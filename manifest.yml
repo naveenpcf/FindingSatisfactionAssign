@@ -1,0 +1,11 @@
+---
+applications:
+- name: SatisfactionService
+  memory: 1024M
+  instances: 1  
+  path: build/libs/SatisfactionService-0.0.1-SNAPSHOT.jar
+  
+  
+  
+
+  
